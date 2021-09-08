@@ -1,0 +1,10 @@
+=====================
+favorites
+=====================
+
+--------------------
+movies
+--------------------
+ - no country for old men
+ - the godfather
+ - sicario
